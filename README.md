@@ -20,7 +20,7 @@ Curso dividido em módulos para aprofundar os conhecimentos em Node.js.
 >✅ Ciclo de testes - TDD - Mocha
 
 * Modulo 4 - Node.js - Realizando CRUD através de TDD
->⬛ CRUD</br>
+>✅ CRUD</br>
 
 * Modulo 5 - Banco de Dados
 >⬛ Strategy - Multi DataSources </br>
