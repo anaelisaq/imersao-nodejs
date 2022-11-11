@@ -23,8 +23,8 @@ Curso dividido em módulos para aprofundar os conhecimentos em Node.js.
 >✅ CRUD</br>
 
 * Modulo 5 - Banco de Dados
->⬛ Strategy - Multi DataSources </br>
->⬛ Design Patterns - Strategy </br>
+>✅ Strategy - Multi DataSources </br>
+>✅ Design Patterns - Strategy </br>
 
 * Modulo 6 - Postgres e Bancos Relacionais
 >⬛ Postgres - operadores e conexões </br>
